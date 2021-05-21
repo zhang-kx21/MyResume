@@ -11,7 +11,7 @@ header {
     grid-template-columns: 50% 20% 30%;
     grid-template-rows: auto auto;
     /* border-bottom: 0.1rem solid #adb5bd; */
-    padding-top: 2.2rem;
+    padding-top: 3rem;
 }
 
 .name-wrapper {
@@ -20,12 +20,12 @@ header {
 }
 
 .title {
-    font-size: 2rem; 
-    margin-top: .8rem;
+    font-size: 3rem; 
+    margin-top: 1rem;
 }
   
 .sub-title {
-    font-size: 1rem;
+    font-size: 1.5rem;
     margin-top: 1.8rem; 
 }
   
@@ -49,41 +49,41 @@ header {
 }
 
 .author-img {
-    width: 5rem;
-    height: 7rem;
+    width: 9rem;
+    height: 12rem;
 }
 
 section {
     display: inline-table;
-    margin-top: .8rem;
+    margin-top:1rem;
     width: 100%;
     hyphens: auto; 
 }
 
 .section-title {
-    font-size: 1.2rem;
+    font-size: 1.4rem;
     border-bottom: 0.1rem solid #adb5bd;
     min-width: 10rem; 
 }
 
 .block {
-    margin-top: .2rem; 
+    margin-top: .3rem; 
     display: grid;
     grid-template-columns: repeat(2, auto);
     grid-template-rows: 1fr auto;
 }
 
 .block-title {
-    font-size: 1rem;
+    font-size: 1.2rem;
 }
 
 .block-subtitle {
-    font-size: .8rem;
+    font-size: 1rem;
     text-align: end;
 }
 
 .block-content {
-    font-size: .9rem;
+    font-size: 1rem;
     line-height: 1.5; 
     grid-column-start: 1;
     grid-column-end: 3;
