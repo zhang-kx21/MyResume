@@ -21,12 +21,12 @@ header {
 
 .title {
     font-size: 3rem; 
-    margin-top: 1rem;
+    margin-top: 0.5rem;
 }
   
 .sub-title {
     font-size: 1.5rem;
-    margin-top: 1.8rem; 
+    margin-top: 0.5rem; 
 }
   
 .contact {
@@ -55,15 +55,15 @@ header {
 
 section {
     display: inline-table;
-    margin-top:1rem;
+    margin-top:0.3rem;
     width: 100%;
     hyphens: auto; 
 }
 
 .section-title {
-    font-size: 1.4rem;
+    font-size: 1.3rem;
     border-bottom: 0.1rem solid #adb5bd;
-    min-width: 10rem; 
+    min-width: 5rem; 
 }
 
 .block {
